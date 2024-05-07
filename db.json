@@ -1,0 +1,24 @@
+  "planszowki":[
+  {
+    "tytul": "Chinczyk",
+    "minLG": "2",
+    "maxLG": "4",
+    "czas": "1",
+    "trudnosc": 1
+  },
+  {
+   "tytul": "Munchkin",
+    "minLG": "1",
+    "maxLG": "6",
+    "czas": "1",
+    "trudnosc": 3
+  },
+  {
+    "tytul": "Black Rose",
+    "minLG": "2",
+    "maxLG": "4",
+    "czas": "3",
+    "trudnosc": 5
+  }
+]
+}
